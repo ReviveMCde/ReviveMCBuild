@@ -1,0 +1,8 @@
+name: ReviveMCBuild
+author: leTobiCW
+version: 1.0
+main: de.revivemc.build.BuildSystem
+commands:
+  gm:
+  gamemode:
+  map:
